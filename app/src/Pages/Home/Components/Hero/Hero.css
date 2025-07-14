@@ -1,0 +1,61 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 12vw 0px;
+  line-height: 1.2;
+}
+
+.hero h1 {
+  color: black;
+  text-align: center;
+  font-size: 3rem;
+}
+
+.hero h1 span {
+  color: var(--blue);
+}
+
+.hero p {
+  color: var(--gray);
+  text-align: center;
+  margin-top: 1lh;
+}
+
+.hero button {
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  padding: 10px;
+  padding-right: 20px;
+  display: flex;
+  align-items: center;
+
+  border-radius: 100px;
+  border: 0px solid;
+
+  background-color: var(--darkBlue);
+  color: white;
+
+  gap: 20px;
+
+  margin-top: 30px;
+
+  transition-duration: 200ms;
+}
+
+.hero button div {
+  height: auto;
+  aspect-ratio: 1;
+  color: var(--darkBlue);
+  
+  line-height: 0px;
+  padding: 10px;
+  border-radius: 100px;
+  background-color: white;
+}
+
+.hero button:hover {
+  padding-left: 30px;
+  padding-right: 40px;
+}
