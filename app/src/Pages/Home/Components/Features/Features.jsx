@@ -53,8 +53,8 @@ export default function Features() {
                         <FaCartShopping />
                     </div>
                     <div className="description">
-                        <h3>One-Click Bundles</h3>
-                        <p>Get curated combos that match your lifestyle and budget. Everything you need, nothing you don't in just one tap.</p>
+                        <h3>Intent-Aware Recommendations</h3>
+                        <p>Go beyond keyword matches. Whether it’s a birthday surprise or a wellness reset, Smart Cart understands your context and curates accordingly.</p>
                     </div>
                 </div>
             </Screen>
