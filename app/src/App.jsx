@@ -1,6 +1,6 @@
 import Home from "./Pages/Home/Home"
-import './App.css'
 import Chat from "./Pages/Chat/Chat"
+import './App.css'
 
 function App() {
 

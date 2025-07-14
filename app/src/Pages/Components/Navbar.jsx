@@ -5,7 +5,9 @@ export default function Navbar() {
   return (
     <div className="navbar">
 
-        <div className="logo"></div>
+        <div className="logo">
+          <h3>Smart Cart</h3>
+        </div>
 
         <ul className="actions">
             <li>Home</li>

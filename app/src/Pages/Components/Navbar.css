@@ -9,10 +9,10 @@
 }
 
 .navbar .logo{
-    width: 100px;
+    font-family: 'Figtree';
     height: 40px;
     border-radius: 6px;
-    background-color: teal;
+    /* background-color: teal; */
 }
 
 .navbar .actions{

@@ -5,7 +5,6 @@ export default function Sidebar() {
   return (
     <div className="sidebar">
 
-        <div className="logo"></div>
         <ul>
             <li> <FaPen/> New Chat</li>
             <li> <FaCartShopping/> Cart</li>

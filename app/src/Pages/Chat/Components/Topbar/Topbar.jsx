@@ -3,7 +3,7 @@ import "./Topbar.css"
 export default function Topbar() {
   return (
     <div className="topbar">
-        asdfasdf
+        <div className="profile"></div>
     </div>
   )
 }
